@@ -1,4 +1,4 @@
-# Salon Booking System 
+# SalonEase
 
 ## 🛠 Technologies Used : 
 🚀 **Spring Boot**  
